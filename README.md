@@ -1,4 +1,4 @@
-Project: Recipes
+# Project: Recipes
 
 I'm currently learning the basics of HTML and now it is time to put that knowledge into practice and make a website. It's about a recipe
 and the purpose is to make the best website I can just with HTML.
